@@ -1,2 +1,2 @@
 # DataSciencePortfolio
-Some of my works in Jupyter notebooks
+Some of my works in Jupyter notebooks and Power BI
